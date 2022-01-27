@@ -1,7 +1,7 @@
 ### Hi there, Wel-come to my github Page 👋
 
 
-- 💬 i am Tech Enthuists, 
+- 💬 I am Tech Enthuists, 
 - 📫 I do Graphics Design, Photography/Videography, and Code.
 - 😄 Yeshi Lhendup / ཡེ་ཤེས་ལྷུན་གྲུབ།
 - ⚡ Fun fact: ...
