@@ -1,5 +1,8 @@
-### Hi there, Wel-come to my github Page 👋
+<h1 align="center">Hi, Welcome To My GitHub Page 👋<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> </h1>
 
+<p align="center">
+  <a href="https://github.com/divyashC"><img src="https://readme-typing-svg.herokuapp.com/?lines=Student;On+My+Developer+Journey;I+Do+A+Bit+Of+Front-end;I+Do+A+Graphic+Design&center=true&width=380&height=45"></a>
+</p>
 
 - 💬 I am Tech Enthuists, 
 - 📫 I do Graphics Design, Photography/Videography, and Code.
