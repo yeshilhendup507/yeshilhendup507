@@ -108,3 +108,6 @@
     <a href="#"><img alt="Behance" src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white"></a>
 <!--<a href="#"><img alt="OBS Studio" src="https://img.shields.io/badge/-OBS%20Studio-302E31?logo=obs-studio&logoColor=white"></a>
  <p>
+📈 my github stats
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=yeshilhendup507&show_icons=true&theme=gotham" alt="ayeshilhendup507" />
