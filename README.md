@@ -11,7 +11,7 @@
 - 😄 Yeshi Lhendup / ཡེ་ཤེས་ལྷུན་གྲུབ།
 - ⚡ Love Travelling, Trekking and Hiking
 - ✔  I am familiar with C, Java, HTML, CSS, JavaScript,  Python and PHP
-- 📫 You can reach me out in Instagram - [@yeshi.lhendup.arts](https://www.instagram.com/yeshi.lhendup.arts/)  Twitter - [@yeshilhendup507](https://twitter.com/yeshilhendup507) LinkedIn - [Yeshi Lhendup](https://www.linkedin.com/in/yeshi-lhendup-70b85a114/)
+- 📫 You can reach me out in Instagram - [@yeshi.lhendup.arts](https://www.instagram.com/yeshi.lhendup507/)  Twitter - [@yeshilhendup507](https://twitter.com/yeshilhendup507) LinkedIn - [Yeshi Lhendup](https://www.linkedin.com/in/yeshi-lhendup-70b85a114/)
 - 💻 Currently Working as a UI/UX Designer at NGN Technologies Private Limited
 
 <br />
