@@ -1,4 +1,4 @@
-![cover_photo](https://github.com/yeshilhendup507)
+![cover_photo](https://github.com/yeshilhendup507/Git page.png)
 
 <h1 align="center">Hi, Welcome To My GitHub Page <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> </h1>
 
