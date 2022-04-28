@@ -7,8 +7,8 @@
 </p>
 
 - 💬 I am Tech Enthuists, 
-- 📫 I do Graphics Design, Photography/Videography, and Code.
-- 😄 Yeshi Lhendup / ཡེ་ཤེས་ལྷུན་གྲུབ།
+<!-- - 📫 I do Graphics Design, Photography/Videography, and Code.
+- 😄 Yeshi Lhendup / ཡེ་ཤེས་ལྷུན་གྲུབ། -->
 - ⚡ Love Travelling, Trekking and Hiking
 - ✔  I am familiar with C, Java, HTML, CSS, JavaScript,  Python and PHP
 - 📫 You can reach me out in Instagram - [@yeshilhendup507](https://www.instagram.com/yeshilhendup507/)  Twitter - [@yeshilhendup507](https://twitter.com/yeshilhendup507) LinkedIn - [Yeshi Lhendup](https://www.linkedin.com/in/yeshi-lhendup-70b85a114/)
