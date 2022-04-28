@@ -47,7 +47,7 @@
 <br/>
 
 
-## 🛠️ My favorite tools
+<!-- ## 🛠️ My favorite tools
 
 ### 👨‍💻 Programming languages
 
@@ -108,6 +108,6 @@
     <a href="#"><img alt="Adobe XD" src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6"></a>
     <a href="#"><img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"></a>
     <a href="#"><img alt="Behance" src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white"></a>
- <p>
+ <p> -->
 📈 my github stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=yeshilhendup507&show_icons=true&theme=gotham" alt="ayeshilhendup507" />
