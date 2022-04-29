@@ -1,4 +1,5 @@
-![cover_photo](https://github.com/yeshilhendup507/Git-Images/blob/main/Git%20page.png)
+<!-- ![cover_photo](https://github.com/yeshilhendup507/Git-Images/blob/main/Git%20page.png) -->
+![Git page](https://user-images.githubusercontent.com/92090571/165885932-49bc50e6-2bd1-4fb9-adb6-b63c91eb3ecc.png)
 
 <h1 align="center">Hi, Welcome To My GitHub Page <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> </h1>
 
